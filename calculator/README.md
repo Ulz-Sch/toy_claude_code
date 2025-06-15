@@ -1,1 +1,2 @@
 # calculator
+CLI Tool calculator
